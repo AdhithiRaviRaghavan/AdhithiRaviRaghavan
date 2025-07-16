@@ -45,7 +45,7 @@ I’m excited to bring this experience into **translational genomics**, **multi-
 ###  Featured Projects
 
 - [ChromosomeEnds](https://github.com/AdhithiRaviRaghavan/ChromosomeEnds):  
-  *Signal analysis pipeline for ChIP-seq and MNase-seq across subtelomeric regions*
+  *Signal analysis scripts for ChIP-seq, RNA-seq, MNase-seq, TrAEL-seq used in the preparation of the manuscript*
 
 - [python-bio-utils](https://github.com/AdhithiRaviRaghavan/python-bio-utils):  
   *Lightweight utility functions for analyzing genome-wide NGS data*
