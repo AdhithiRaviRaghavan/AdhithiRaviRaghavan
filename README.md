@@ -19,7 +19,7 @@ I’m a PhD-trained scientist with a background in genome biology and computatio
 ###  About Me
 
 **What I’ve done:**  
-I study the mechanisms of **genome instability** and **chromatin remodeling** using integrative analysis of **next-generation sequencing** data — including **ChIP-seq**, **RNA-seq**, **MNase-seq**, and **TrAEL-seq**. My research has centered on **repetitive and telomeric regions**, where I’ve built **reproducible pipelines** and combined experimental data with computational tools to uncover how genome architecture influences function and repair.
+I study the mechanisms of genome instability and chromatin remodeling using integrative analysis of **next-generation sequencing** data — including **ChIP-seq**, **RNA-seq**, **MNase-seq**, and **TrAEL-seq**. My research has centered on **repetitive and telomeric regions**, where I’ve built **reproducible pipelines** and combined experimental data with computational tools to uncover how genome architecture influences function and repair.
 
 **What I’m looking for:**  
 I’m excited to bring this experience into **translational genomics**, **multi-omics integration**, and **computational discovery** in health and disease. I’m especially drawn to roles where I can contribute to **biomedical insight**, **diagnostic innovation**, or **therapeutic development** by working at the intersection of data science and biology.
