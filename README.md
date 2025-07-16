@@ -6,7 +6,7 @@ I’m a PhD-trained scientist with a background in genome biology and computatio
 
 ---
 
-### 🧠 What I Do
+### What I Do
 
 🧬 Analyze genome structure, repetitive DNA, and chromatin states  
 📊 Build scalable pipelines for NGS data (ChIP-seq, RNA-seq, MNase-seq, TrAEL-seq)  
@@ -16,7 +16,7 @@ I’m a PhD-trained scientist with a background in genome biology and computatio
 
 ---
 
-### 🔬 About Me
+###  About Me
 
 **What I’ve done:**  
 I study the mechanisms of **genome instability** and **chromatin remodeling** using integrative analysis of **next-generation sequencing** data — including **ChIP-seq**, **RNA-seq**, **MNase-seq**, and **TrAEL-seq**. My research has centered on **repetitive and telomeric regions**, where I’ve built **reproducible pipelines** and combined experimental data with computational tools to uncover how genome architecture influences function and repair.
@@ -26,44 +26,34 @@ I’m excited to bring this experience into **translational genomics**, **multi-
 
 ---
 
-### 🚀 Currently Open To
+### Currently Open To
 
 - 🧬 Scientist and bioinformatician roles in genomics, biotech, or diagnostics  
 - 📊 Computational biology and data science positions involving multi-omics or NGS  
-- 🤝 Opportunities to build, scale, and apply bioinformatics pipelines in real-world contexts
+-  Opportunities to build, scale, and apply bioinformatics pipelines in real-world contexts
 
 ---
 
-### 🧰 Most Used Tools & Technologies
+### Most Used Tools & Technologies
 
 `R` `Python` `HPC` `Bioconductor` `Bash` `NGS` `ChIP-seq` `RNA-seq` `MNase-seq` `TrAEL-seq`  
 `Linux` `Nextflow` `Multi-omics` `Git/GitHub` `Workflow Automation` `Data Visualization`
 
----
-
-### 📊 GitHub Stats
-
-![Adhithi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdhithiRaviRaghavan&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdhithiRaviRaghavan&theme=tokyonight)](https://git.io/streak-stats)
-
-<!-- Comment this out if you'd rather not show auto-calculated languages -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdhithiRaviRaghavan&layout=compact&theme=tokyonight) -->
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
-- 🔬 [ChromosomeEnds](https://github.com/AdhithiRaviRaghavan/ChromosomeEnds):  
+- [ChromosomeEnds](https://github.com/AdhithiRaviRaghavan/ChromosomeEnds):  
   *Signal analysis pipeline for ChIP-seq and MNase-seq across subtelomeric regions*
 
-- 🧰 [python-bio-utils](https://github.com/AdhithiRaviRaghavan/python-bio-utils):  
+- [python-bio-utils](https://github.com/AdhithiRaviRaghavan/python-bio-utils):  
   *Lightweight utility functions for analyzing genome-wide NGS data*
 
-- 📈 [exploratory-analysis](https://github.com/AdhithiRaviRaghavan/exploratory-analysis):  
+- [exploratory-analysis](https://github.com/AdhithiRaviRaghavan/exploratory-analysis):  
   *R notebooks showcasing exploratory data analysis and visualization of genomic signals*
 
-- 📦 [hwglabr2](https://github.com/hochwagenlab/hwglabr2):  
+-  [hwglabr2](https://github.com/hochwagenlab/hwglabr2):  
   *R package for yeast genomics developed in Hochwagen lab (contributor)*
 
 ---
