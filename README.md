@@ -8,11 +8,11 @@ I’m a PhD-trained scientist with a background in genome biology and computatio
 
 ### What I Do
 
-🧬 Analyze genome structure, repetitive DNA, and chromatin states  
-📊 Build scalable pipelines for NGS data (ChIP-seq, RNA-seq, MNase-seq, TrAEL-seq)  
-🛠 Develop tools in R, Python, and Bash, run on HPC clusters  
-🔎 Extract biological insights from complex genomic regions  
-🧪 Collaborate across wet and dry labs to drive discovery
+- Analyze genome structure, repetitive DNA, and chromatin states
+-  Build scalable pipelines for NGS data (ChIP-seq, RNA-seq, MNase-seq, TrAEL-seq)
+-  Develop tools in R, Python, and Bash, run on HPC clusters
+-  Extract biological insights from complex genomic regions  
+-  Collaborate across wet and dry labs to drive discovery
 
 ---
 
@@ -28,9 +28,9 @@ I’m excited to bring this experience into **translational genomics**, **multi-
 
 ### Currently Open To
 
-- 🧬 Scientist and bioinformatician roles in genomics, biotech, or diagnostics  
-- 📊 Computational biology and data science positions involving multi-omics or NGS  
--  Opportunities to build, scale, and apply bioinformatics pipelines in real-world contexts
+- Scientist and bioinformatician roles in genomics, biotech, or diagnostics  
+- Computational biology and data science positions involving multi-omics or NGS  
+- Opportunities to build, scale, and apply bioinformatics pipelines in real-world contexts
 
 ---
 
