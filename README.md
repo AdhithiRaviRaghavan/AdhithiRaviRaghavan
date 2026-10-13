@@ -27,6 +27,8 @@ Computational biologist (PhD) working across genomics, microbial biology and mul
 Selected work in *eLife* (2026), *Current Biology* (2025) and *Cell Genomics* (2023). Full list on [Google Scholar](#).
 
 ## Tools
+## Tools
+
 **Languages:** `R` `Python` `Bash`
 
 **Workflows & compute:** `Nextflow` `Git` `GitHub Actions` `Linux` `HPC/SLURM` `Cloud`
