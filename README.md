@@ -27,7 +27,12 @@ Computational biologist (PhD) working across genomics, microbial biology and mul
 Selected work in *eLife* (2026), *Current Biology* (2025) and *Cell Genomics* (2023). Full list on [Google Scholar](#).
 
 ## Tools
-`R` `Python` `Bash` `Bioconductor` `Nextflow` `Git` `Linux` `HPC` `GATK` `BWA` `Samtools` `BEDTools` `DESeq2` `Seurat` `AlphaFold` `IUPred` `ggplot2` `Shiny`
+*Languages:** `R` `Python` `Bash`
+**Workflows & compute:** `Nextflow` `Git` `GitHub Actions` `Linux` `HPC/SLURM` `Cloud`
+**Sequencing analysis:** `BWA` `Bowtie2` `STAR` `Salmon` `Kallisto` `Samtools` `BEDTools` `GATK` `MACS3`
+**Statistics & omics:** `Bioconductor` `DESeq2` `edgeR` `Seurat` `pandas` `seaborn` `ggplot2` `Shiny`
+**Protein & structure:** `AlphaFold` `IUPred`
+**Data types:** `WGS` `RNA-seq` `ChIP-seq` `ATAC-seq` `Nanopore long-read` `16S` `Metagenomics` `LC-MS proteomics`
 
 
 ## Connect with Me
