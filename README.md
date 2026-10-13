@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adhithi
+# Hi, I'm Adhithi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px">
 
 Computational biologist (PhD) working across genomics, microbial biology and multi-omics. I build reproducible R and Python pipelines for high-throughput sequencing data and work closely with experimental scientists, from study design to interpretation.
 
