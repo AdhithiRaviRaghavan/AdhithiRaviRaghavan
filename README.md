@@ -30,15 +30,10 @@ Selected work in *eLife* (2026), *Current Biology* (2025) and *Cell Genomics* (2
 ## Tools
 
 **Languages:** `R` `Python` `Bash`
-
 **Workflows & compute:** `Nextflow` `Git` `GitHub Actions` `Linux` `HPC/SLURM` `Cloud`
-
 **Sequencing analysis:** `BWA` `Bowtie2` `STAR` `Salmon` `Kallisto` `Samtools` `BEDTools` `GATK` `MACS3`
-
 **Statistics & omics:** `Bioconductor` `DESeq2` `edgeR` `Seurat` `pandas` `seaborn` `ggplot2` `Shiny`
-
 **Protein & structure:** `AlphaFold` `IUPred`
-
 **Data types:** `WGS` `RNA-seq` `ChIP-seq` `ATAC-seq` `Nanopore long-read` `16S` `Metagenomics` `LC-MS proteomics`
 
 
