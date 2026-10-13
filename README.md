@@ -27,18 +27,19 @@ Computational biologist (PhD) working across genomics, microbial biology and mul
 Selected work in *eLife* (2026), *Current Biology* (2025) and *Cell Genomics* (2023). Full list on [Google Scholar](#).
 
 ## Tools
-## Tools
-
 **Languages:** `R` `Python` `Bash`
+
 **Workflows & compute:** `Nextflow` `Git` `GitHub Actions` `Linux` `HPC/SLURM` `Cloud`
+
 **Sequencing analysis:** `BWA` `Bowtie2` `STAR` `Salmon` `Kallisto` `Samtools` `BEDTools` `GATK` `MACS3`
+
 **Statistics & omics:** `Bioconductor` `DESeq2` `edgeR` `Seurat` `pandas` `seaborn` `ggplot2` `Shiny`
+
 **Protein & structure:** `AlphaFold` `IUPred`
+
 **Data types:** `WGS` `RNA-seq` `ChIP-seq` `ATAC-seq` `Nanopore long-read` `16S` `Metagenomics` `LC-MS proteomics`
 
-
 ## Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhithi-raghavan)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:adhithi.raghavan1993@gmail.com)  
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4c8bc9?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=38RF2boAAAAJ&hl=en)
